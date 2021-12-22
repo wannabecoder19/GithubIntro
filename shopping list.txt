@@ -1,0 +1,9 @@
+//an example showing a shopping list where it'll have a list of items that we need from a supermarket (assuming)
+Shopping List:
+Apple
+Oranges
+Water
+Chocolates
+Cherries
+Carrots
+
