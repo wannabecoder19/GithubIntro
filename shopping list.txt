@@ -7,3 +7,7 @@ Chocolates
 Cherries
 Carrots
 Flowers
+green apples
+yellow apples
+candy
+another chocolate type (kinder)
